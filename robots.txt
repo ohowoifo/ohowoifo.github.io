@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ohowoifo.github.io/ANy/sitemap_index.txt.gz
+Sitemap: https://ohowoifo.github.io/JeB/sitemap_index.txt.gz
+Sitemap: https://ohowoifo.github.io/KMQ/sitemap_index.txt.gz
+Sitemap: https://ohowoifo.github.io/PvX/sitemap_index.txt.gz
+Sitemap: https://ohowoifo.github.io/XSI/sitemap_index.txt.gz
